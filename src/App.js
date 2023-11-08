@@ -11,6 +11,7 @@ function App() {
     <div className="App">
       <h1>Computer Vision</h1>
       <input type="text" placeholder="Enter URL here"></input>
+      <br />
       <button>Analyze</button>
       <br />
       <button>Generate</button>
