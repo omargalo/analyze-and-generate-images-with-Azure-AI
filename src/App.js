@@ -1,7 +1,5 @@
 import React, { useState } from 'react';
 import axios from 'axios';
-import React, { useState } from 'react';
-import axios from 'axios';
 import { analyzeImage } from './azure-image-analysis';
 
 
