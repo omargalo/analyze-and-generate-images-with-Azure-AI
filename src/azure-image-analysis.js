@@ -27,3 +27,7 @@ async function analyzeImage(imageUrl) {
     console.error(error);
   }
 }
+
+module.exports = {
+  analyzeImage
+};
